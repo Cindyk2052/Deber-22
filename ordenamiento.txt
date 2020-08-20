@@ -1,0 +1,4 @@
+Ordenamiento de un vector
+
+Arreglo desordenado: -89 100 2 35 -19 -1 
+Arreglo ordenado: -89 -19 -1 2 35 100 
